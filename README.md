@@ -1,5 +1,4 @@
-# Nome Do Projeto
-
+# Image API
 Project developed to 24h code challenge
 
 ## Built With:
